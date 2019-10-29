@@ -1,0 +1,7 @@
+H:\demo\WPFReolution\WPFReolution\WPFReolution\bin\Release\UtilityResolution.dll
+H:\demo\WPFReolution\WPFReolution\WPFReolution\bin\Release\UtilityResolution.pdb
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Release\UtilityResolution.Properties.Resources.resources
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Release\UtilityResolution.csproj.GenerateResource.cache
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Release\UtilityResolution.csproj.CoreCompileInputs.cache
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Release\UtilityResolution.dll
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Release\UtilityResolution.pdb

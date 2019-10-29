@@ -1,0 +1,5 @@
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Debug\WPFReolution.csprojAssemblyReference.cache
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Debug\MainWindow.g.cs
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Debug\App.g.cs
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Debug\WPFReolution_MarkupCompile.cache
+H:\demo\WPFReolution\WPFReolution\WPFReolution\obj\Debug\WPFReolution_MarkupCompile.lref
